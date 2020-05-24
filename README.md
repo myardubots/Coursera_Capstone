@@ -1,2 +1,2 @@
-# Coursera_Capstone
-This is required for Coursera Applied Data Science Capstone
+# Segmentation and clustering
+Used beautiful soup for scrapping data from web for clustering
